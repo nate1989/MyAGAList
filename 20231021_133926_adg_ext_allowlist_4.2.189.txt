@@ -69,3 +69,4 @@ twitter.com
 westerndigital.com
 console.cloud.google.com
 publisher.linkvertise.com
+honeygain.com
