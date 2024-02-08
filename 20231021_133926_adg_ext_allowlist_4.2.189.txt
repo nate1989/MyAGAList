@@ -87,6 +87,7 @@
 @@||waveform.com^
 @@||wcostream.net^
 @@||wcostream.org^
+@@||wcostream.tv^
 @@||weather.com^
 @@||web.archive.org^
 @@||westerndigital.com^
