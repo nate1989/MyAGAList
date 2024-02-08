@@ -5,13 +5,13 @@ affiliate-program.amazon.com
 amazon.com
 animepisode.com
 apex.prosperousuniverse.com
+app-measurement.com
 app.adjust.net.in
 app.adjust.world
 app.infinityfree.net
 app.jumptask.io
 app.vidiq.com
 applynow.unitedfcu.com
-app-measurement.com
 beta.openai.com
 bing.com
 bitpay.com
@@ -36,7 +36,6 @@ earnapp.com
 filemanager.ai
 files.minecraftforge.net
 fiverr.com
-fiverraffiliates.com
 fiverraffiliates.com
 fssabenefits.in.gov
 g.doubleclick.net
@@ -88,7 +87,6 @@ watson.events.data.microsoft.com
 waveform.com
 wcostream.net
 wcostream.org
-weather.com
 weather.com
 web.archive.org
 westerndigital.com
