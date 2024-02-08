@@ -83,6 +83,7 @@
 @@||vidiq.com^
 @@||wallpaperaccess.com^
 @@||walmart.com^
+@@||watchanimesub.net^
 @@||watson.events.data.microsoft.com^
 @@||waveform.com^
 @@||wcostream.net^
