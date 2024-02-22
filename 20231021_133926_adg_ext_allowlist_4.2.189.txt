@@ -12,6 +12,7 @@
 @@||app.jumptask.io^
 @@||app.vidiq.com^
 @@||applynow.unitedfcu.com^
+@@||battle.net^
 @@||beta.openai.com^
 @@||bing.com^
 @@||bitpay.com^
