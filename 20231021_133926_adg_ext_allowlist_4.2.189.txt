@@ -99,6 +99,6 @@
 @@||www.w3schools.com^
 @@||xbox.com^
 @@||youtu.be^
-@@||youtube.com^
+@@||www.youtube.com/watch*^
 @@||ytimg.com^
 @@||zillow.com^
