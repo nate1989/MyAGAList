@@ -1,3 +1,4 @@
+! Title: Nate's Allow List
 @@||192.168.2.1^
 @@||account.arena.net^
 @@||adf.ly^
