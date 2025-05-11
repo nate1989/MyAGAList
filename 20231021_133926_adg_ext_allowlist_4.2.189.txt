@@ -103,3 +103,8 @@
 @@||www.youtube.com/watch*^
 @@||ytimg.com^
 @@||zillow.com^
+@@||brightdata.com^
+@@||perr.lum-sdk.io^
+@@||perr.l-err.biz^
+@@||perr.bright-sdk.com^
+@@||perr.l-agent.me^
