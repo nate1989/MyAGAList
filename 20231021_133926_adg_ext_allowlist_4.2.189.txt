@@ -865,3 +865,12 @@
 @@||urlgalleries.net^$generichide
 @@||xfreehd.com^$generichide
 ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
+@@||agh.theclassicgamer.infinityfreeapp.com^$important
+@@||wcostream.com^$important
+@@||f2movies.to^$important
+@@||streameeeeee.site^$important
+@@||brujoshooch.shop^$important
+@@||yakshiyew.com^$important
+@@||womerasecocide.com^$important
+@@||riotgames.com^$important
+@@||massgrave.dev^$important
