@@ -874,3 +874,16 @@
 @@||womerasecocide.com^$important
 @@||riotgames.com^$important
 @@||massgrave.dev^$important
+! More Dns
+@@||app.jumptask.io^$important
+@@||coda.grammarly.com^$important
+@@||https://cpanel.infinityfree.com^$important
+@@||https://www.romspedia.com^$important
+@@||https://zillowforwarcraft.com^$important
+@@||movies2.top^$important
+@@||ootmm.com^$important
+@@||wcostream.tv^$important
+@@||web.archive.org^$important
+@@||radeonramdisk.com^$important
+@@||realtek.com^$important
+@@||f2movies.to^$important
