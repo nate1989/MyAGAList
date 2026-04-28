@@ -887,3 +887,4 @@
 @@||radeonramdisk.com^$important
 @@||realtek.com^$important
 @@||f2movies.to^$important
+@@||ente.io^$important
